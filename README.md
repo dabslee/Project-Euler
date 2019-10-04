@@ -55,13 +55,3 @@ As programming speed was the target here, the actual quality of the programs may
 5/30/2019: Finished PE #37 and #38 in a total of 22 minutes and 21 minutes, respectively.
 
 5/31/2019: Finished PE #39 and PE #40 in a total of 1 hour and 3 minutes and 34 minutes, respectively.
-
-6/17/2019: Finished PE #41 in a total of 30 minutes.
-
-6/19/2019: Finished PE #42 and #43 in a total of 42 minutes and 55 minutes, respectively.
-
-6/20/2019: Finished PE#44 in a total of 83 minutes.
-
-6/21/2019: Finished PE#45 in a total of 41 minutes.
-
-7/6/2019: Finished PE#46 in a total of 36 minutes.
